@@ -41,3 +41,4 @@ Enter the required values when prompted, and the script will display the calcula
 ## Author
 
 Created as part of the IBM Introduction to Git and GitHub Final Project.
+First update for assignment
